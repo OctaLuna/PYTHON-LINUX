@@ -1,0 +1,4 @@
+print(
+)
+#VARIABLES
+monedaCambio = int(input("Pon un "))
