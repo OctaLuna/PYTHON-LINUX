@@ -19,3 +19,10 @@ print(f" Se adiciono el una nueva variable para el diccionario que es \n{myDict}
 #Esto es para borrar un valor de nuestro diccionario
 del myDict["Orlando"]
 print(f"Ufff borramos a Orlando de el diccionario Un tipo de lista, ahora mira como quedo: \n {myDict}")
+############
+#Esto es para imprimir solo las llaves de cada variable del diccionario
+for llaves in myDict.keys():
+    print(llaves)
+#esto es para imprimir el valor de las variables del diccionario
+for valor in myDict.values():
+    print(valor)
