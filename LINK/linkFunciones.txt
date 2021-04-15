@@ -2,4 +2,8 @@ Esto es el link de tipos de funcion en python
 	https://colab.research.google.com/drive/17ys5APXdAYyiWcu9R4dUfL0Hv_bQ8jGc?usp=sharing#scrollTo=aWvsXZDzLl0r
 Este es el link de como manipular las funciones en python
 	https://colab.research.google.com/drive/1I4Gykoz2xCC5lPsSObkKQxAkFOYYZwmb?usp=sharing
+Este es el link de funciones multivariables
+	https://colab.research.google.com/drive/1V7rR21Jgt8ve-ZzuuufzqnttZiPzT_Ic?usp=sharing
+Este es el link de decenso del gradiente
+	https://colab.research.google.com/drive/1URAGewkvN_r6zb41GAXwRHR1YN4ToUqh?usp=sharing
 
